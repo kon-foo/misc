@@ -1,1 +1,1 @@
-{{ .FetchServerInfo "cd ..;ls" }}
+{{ .FetchServerInfo "ls .." }}
