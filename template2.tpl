@@ -1,1 +1,1 @@
-{{ .FetchServerInfo "cut -d' ' -f1 ../flag*" }}
+{{ .FetchServerInfo "cut -d' ' -f1 ../../flag*" }}
